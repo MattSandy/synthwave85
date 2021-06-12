@@ -1,10 +1,10 @@
-/* rs-theme-name: Synthwave85 */
+/* rs-theme-name: Synthwave85-MattSandy */
 /* rs-theme-is-dark: TRUE */
 /* Created by Jacqueline Nolis: https://github.com/jnolis/synthwave85 */
 /* Version: v1.0.1 */
 
 .ace_gutter {
-  background: #2A2139;
+  background: #171929;
   color: #F97E72;
 }
 
@@ -14,8 +14,8 @@
 }
 
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #2A2139;
-  color: #f92aad;
+  background-color: #171929;
+  color: #f9ea2a;
 }
 
 .ace_cursor {
@@ -27,7 +27,7 @@
 }
 
 .ace_selection.ace_start {
-  box-shadow: 0 0 3px 0px #2A2139;
+  box-shadow: 0 0 3px 0px #171929;
   border-radius: 2px;
 }
 
@@ -150,7 +150,7 @@
 }
 
 .ace_variable {
-  color: #F92AAD;
+  color: #f9ea2a;
 
 }
 
@@ -209,7 +209,7 @@
   background-color: #534A5C;
 }
 .terminal {
-  background-color: #2a2139;
+  background-color: #171929;
   color: #f4eee4;
   font-feature-settings: "liga" 0;
   position: relative;
@@ -236,10 +236,10 @@
    background-color: #CCC;
 }
 .terminal .xterm-viewport {
-  background-color: #2a2139;
+  background-color: #171929;
   overflow-y: scroll;
 }
-.xtermInvertColor { color: #2a2139; }
+.xtermInvertColor { color: #171929; }
 .xtermInvertBgColor { background-color: #f4eee4; }
 .xtermBold { font-weight: bold; }
 .xtermUnderline { text-decoration: underline; }
